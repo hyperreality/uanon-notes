@@ -1,0 +1,1 @@
+https://github.com/Chain-of-Insight/project-uanon/blob/8ac528c9c3354472922ae656741634ccc42f4fcf/client/src/components/children/vms/SpringEmail1.vue#L113

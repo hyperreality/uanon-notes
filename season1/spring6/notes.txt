@@ -1,0 +1,43 @@
+Payload: 5 persons seated at a pentagonal table. 5 inputs per person, each group of inputs is found at a vertex. Start from the North and move clockwise.
+
+Format: Each person, 1st input - Name: Capitalized, ex: Bob
+
+Format: Each person, 2nd input - Age: 2 digit integer, ex: 11
+
+Format: Each person, 3rd input - Favorite color: Hexadecimal number, uppercase, preceded by #, example #FFFFFF
+
+Format: Each person, 4th input - Percentage of crypto position invested in Tezos: Floating point number between 0 and 100, precision of exactly 5 decimals. Round numbers to the 5th decimal if needed. Examples, 12.345678 gets rounded to 12.34568, 3.5 gets extended to 3.50000
+
+Format: Each person, 5th input - Place of significance: Full capitalized English location name - doublecheck with Wikipedia article title. Example: Mariana Trench
+
+
+
+The Easternmost person is 2/3 the age of the person on his right (yet still an integer)
+The person named like the legendary ruler of Camelot enjoys the family of exotic flowers with more than 25,000 accepted species. Their generic color is his favorite.
+The person sitting to the left of the person who is two dozen years old, thinks of their Tezos wallet as light, but only because their app divides by 10 to the VII [ms-1]
+The South-East person picks a unique letter from the longest alphabet in the world for each year of their life. So far they're halfway through.
+The oldest person in the group said that their age is in the two digit range and related to a famous spiral.
+The youngest person is sitting to the right of the oldest person.
+
+Diana framed a canvas that has a single color on it. There's a tag below it that reads: #Doorbells can detect visitors using a visitor detection system that includes a camera assembly, a motion detector assembly, or an infrared detector assembly.
+Bill and the person that holds his Tezos wallet position at a constant 1-Tau% sit at the maximum distance from each other.
+IEEE 0x4040aaaa8eb46349 754
+Bill invested a total of $55k in crypto, buying only BTC, ETH and XTZ. He bought 35% more BTC than ETH, and invested $10k less in XTZ than in BTC.
+Sophia really appreciates the person whose favorite place is an ancient harbor city. Interesting enough, the city's current distance to the sea is larger than 5 kilometers. But that's going to change soon.
+The person left of Sophia visited a really cool place in their youth (with an interesting nickname, too). That place is known for the strongest candidate for an alien message recorded so far. What was the nickname?
+
+
+Tom's favorite color will be the background for the page. Metadata for the image will contain: diary entry #5: to access the tezos wallet, remember these 3 words: liaise.bedspreads.lolls - it was awesome there. Wallet details: tejviebsre bi xerhw ywdo: hu.pqsk ZQK wx reahwik upfkc, derg: f21avuj151r
+
+
+
+1) NAME
+2) HEX
+3) AGE
+4) TEZOS POSITION
+5) PLACE
+
+
+
+document.getElementsByClassName("insight")[0].innerText
+"Seek SVG with 199 (helpful later). If any of you chooses to climb that path to clarity, I will be very happy to meet you at the peak."
