@@ -1,0 +1,42 @@
+As the page loads and we use the download command we see three parts of this puzzle:
+ - Japanese characters. 52 katakana along the top, 52 hiragana along the bottom. Importantly these are only the 5 vowels which can be mapped 1-1 to English vowels.
+ - Two cipher wheels of 26 numbers each. The numbers are zero-indexed from 0-25.
+ - The background image, which on closer inspection has a password-protected zipfile inside.
+
+ PART 1
+ ------
+
+ Where to start? We assumed that the zipfile password was to be obtained from the cipher wheels and japanese chars. Due to the fact that there are 26*4 japanese chars and 26*2 numbers on the wheels, we also assumed that there was some clever way to combine these two components to produce the answer. I.e. rotate the wheels and add on numeric values of the Japanese vowels when translated to English with a A1Z26 cipher. Just one of many possible ideas.
+ 
+ Unfortunately after many many hours this approach did not lead anywhere...
+
+ Eventually we decided to look at the components in isolation. The puzzle name "◯◯❏" made us focus on the places where a O in the katakana matched with a O in the hiragana, of which there were 7 which was an unusually large amount. And this train of thought led us further. With 5 vowels each of the katakana and hiragana, combining pairs of them would give you 25 separate characters.
+ 
+ We wrote a script to turn each unique pair of Japanese chars into letters, i.e. 104 chars to 52 letters, which gives: abcdbefdbgfehijbkhfklmnaibgiednogbofiafbgidmcpdiqicb. Plug this into quipqiup and you get something like: "start forth of lent clockwise the fright goes other way repeat". This looks promising and with a bit of manual adjustments you get "start north on left clockwise then right goes other way repeat"
+
+
+ PART 2
+ ------
+ "START NORTH ON LEFT CLOCKWISE THEN RIGHT GOES OTHER WAY REPEAT"
+
+ These are instructions on how to operate the wheels, but how to interpret them? At first sight they seem clear but soon we were deeply confused about how to apply them. The most natural way seems to be start at top of the left wheel, then turn it clockwise one number, then read the top of the right wheel, then turn it anti-clockwise one number, then go back to the left wheel and repeat. We tried every combination of this idea you could think of and it didn't work.
+
+ Taking a step back, the index of coincidence of the 52 numbers on the wheels was very low, close to random. This suggested some additional transformation or polyalphabetic substitution. We have 52 characters in the decoded instructions phrase too. So surely we have to combine this phrase with the numbers to arrive at some new phrase. Nope. After almost a day of work on this... nada.
+ 
+Finally we start to consider other ways we might turn the wheel since that's the big thing left out in the instructions. What happens if we turn the wheel the number that's on the top of the wheel? Then go to the right wheel and do the same but anti-clockwise? Does this produce a phrase? No. But after starting to do this we noticed some interesting patterns, and eventually stumbled on the solution.
+
+Start at north left wheel, write down the value 20. Turn BOTH wheels 20 clockwise, then write down north on right wheel (8). Turn both wheels 8 anti-clockwise, then repeat. We get an array of numbers which when mapped to the alphabet gives "thegestapoiswatching".
+
+After all this time the answer is so simple that just printing out the wheels and playing with them a bit might have led to it. Or even giving the wheels to a particularly intelligent child could have been more efficient than writing 1000 lines of code. It can't be denied that the answer is rather straightforward and we only have ourselves to blame for overcomplicating it. Onto the next!
+
+
+PART 3
+------
+
+The phrase we found unlocks the Zip and we have a new image lights.png. Chucking it into Stegsolve there is a black N on the red plane, white O on the green plane, white I on the blue plane, and an XOR symbol on the alpha plane. Why do these even appear? We did a bit of research and found that it's because all the red pixels in those positions (in the case of N) are even numbers, but in the rest of the image the distribution of odd and even pixels is much less structured (as you'd expect). Selecting "Red bit plane 0" just looks at those LSBs and the pattern of even numbers gives away the number.
+
+So how do we expect to reveal the rest of the letters? Clearly using the XOR operator in some way, but after trying a few things we didn't make much progress.
+
+It turns out that the image itself is giving a massive clue about what's happening. If you zoom into the lights you see that the red, green, and blue colour lines have become disattached into separate strands. What happens if we arrange them back into the original positions? The blue plane needs to move up 4 pixels and the red plane right by 3 pixels and up 4. This can be done in Python using Pillow. Now all the bit planes are aligned. Already, looking at the random colour map in Stegsolve starts to reveal parts of some of the remaining characters. Then you use the XOR operator to XOR each bit plane, and you find that two more letters are hidden in each combination of R ^ G, G ^ B etc. Very neat.
+
+In actuality, this wasn't the solution we used. Knowing the answer format of two Greek words and crucially now some of the letters in them, we were able to create a narrowed down wordlist out of a Greek dictionary, and used a Python brute force script against the hash. This took about 6 hours to run in total, and we messed up the first time since the romanisation script we used didn't produce the correct transliteration of English letters. So although we didn't solve the image the intended way, the intended solution would likely have been much faster than brute-forcing if we'd been awake enough.
