@@ -1,6 +1,7 @@
 code            where                           found_at
-7MV8XWQF+6X     Arkhale, Tibet near Everest     season 0 nft (https://github.com/Chain-of-Insight/uanon-contracts/blob/main/migrations/8_create_season0_nfts.js)
+7MV8XWQF+6X     Arkhale, Tibet near Everest     s0 nft (https://github.com/Chain-of-Insight/uanon-contracts/blob/main/migrations/8_create_season0_nfts.js)
 8MJ22222+22     Tien Shan, China                tweet (https://twitter.com/chainofinsight/status/1366786226242609153)
-8HM286MC+2X     Gagra, Abkhazia                 video NFT puzzle (https://www.youtube.com/watch?v=xQppXeRYxqo). Given as "86MC+2X Gagra" format unlike the others.
-7R3485XX+HW     Mariana Trench                  Spring 6 email
-
+7R3485XX+HW     Mariana Trench                  s1 spring 6 email
+577H7FH7+P9	    Llullaillaco, Argentina	        s1 nft
+8HM286MC+2X     Gagra, Abkhazia                 s1 video NFT puzzle (https://www.youtube.com/watch?v=xQppXeRYxqo). Given as "86MC+2X Gagra" format unlike the others.
+????PXXV+MP                                     s2 pre puzzle video (https://www.youtube.com/watch?v=_7excqHgH1I) note: Bel canto castrata e Passò, Italy
