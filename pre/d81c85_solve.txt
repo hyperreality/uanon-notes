@@ -1,0 +1,7 @@
+$ outguess -r d81c85d1b7926c06ce180214bdfe19e059f2fdd38938d97275016dbea3a2389c.jpg out
+9f476eabb72d7218fd5f5df566c348c6229578abb48fa4bef4050018a09acef365e2c42c9aa3222ac772ed76f37fd73e08ee9828d3921590fdaac372ad2b4ea0
+
+AES decrypt with "991":
+https://youtu.be/leX541Dr2rU?t=2017
+
+"It's not about spectacle, it's about people. To explain that, we need to talk about parasocial relationships"
