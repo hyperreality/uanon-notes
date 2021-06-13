@@ -2,9 +2,6 @@ from pwn import xor
 
 with open('key.svg') as f:
     key_svg = f.read()
-with open('/home/abc/Downloads/ascended.png', 'rb') as f:
-    key_svg = f.read()
-
 
 qr_code = bytes.fromhex("d79967f167cc3ffe65c2e9485ad30c6a045dac87317828b66196550f5bcd66c6fd8a414b281d60fe98bb83bdb474523412121d27d38d75e2ffb5355923d8370a")
 
@@ -13,8 +10,6 @@ theyrefake = bytes.fromhex("50dcd121d510d6d9ad782721991b9edff2d630722d040e13a525
 print(f"Len(fake): {len(theyrefake)}")
 print(f"Len(qr_code): {len(qr_code)}")
 
-# svg = svg
 xored = xor(theyrefake, key_svg)
-# xored = xor(xored, wav)
 with open(f'fileout', 'wb') as f:
     f.write(xored)
