@@ -1,0 +1,10 @@
+1. Only one player can be the President
+2. Only the President can read the puzzle's answer
+3. Each presidency lasts the duration of the campaign unless the election is stolen
+4. If an election receives no votes, the current President's reign is extended; or, reverts to no President if they've served 3 consecutive terms in office
+5. If a player who is not the President submits the puzzle answer, they can steal the election
+6. When an election is stolen, the thief becomes the illegimate President and takes office immediately. Stop the steal!
+7. The first election lasts 24 hours
+8. Each election after the first, lasts half as long as its predecessor but must last at least 1 hour (unless the President's reign is being extended or the election received no votes)
+9. Since we're using U.S. gov't grade cryptography, voting security can be easily broken. Stop the DDOS!
+10. Stealing an election can sabotage or help other teams and players. If a steal occurs when a campaign is close to ending, it extends the timer (since the next President is illegitimate). But consider a team of 4 players, one wins the first election and shares the solution with the others. If all the teammates proceed to the next puzzles immediately, the next President is declared in 1.5 hours instead of 12 (4x time reduction instead of 1x), making it trivial for others to catch up.
