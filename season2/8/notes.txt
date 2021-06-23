@@ -1,0 +1,34 @@
+outguess:
+My darling, Charles is in another castle... b74d2823b8b5da4ee7f69ca02e55ce509d5a71d434683248f9594e1e754096f324dc3ec61048463fdc1054a1d5adcc15
+
+exif:
+Find the coded message of the two 'C's
+
+
+In code:
+let t = this.dec('cbc', '71cf60b89bf3fc12e8752d274a65be2d67a48fc9b167eac0ae746b68d6fdcc0e0299c9b8357d2d83393a4bd415100df1', this.proof);
+let s = document.createElement('script');
+
+Decrypts to:
+app.873279a8.js.map
+
+Which includes on it:
+<template type=\"map\">\n <div id=\"the_queens_time_machine\" class=\"we ken the legend\">\n    <map name=\"but nowe here is the map\">\n      <area shape=\"globe\" alt=\"Map 1\" href=\"https://goo.gl/maps/x2bpzwZ2B5SUHJuM9\">\n<area shape=\"pyramid\" alt=\"Map 2\" href=\"https://goo.gl/maps/xWcTJ9HAJiP1cHK88\" key=\"https://uanon.s3.amazonaws.com/86638e249dc86d1c04a2c379095bd741d56fc5db4e352d95e82c977610079d59/spoiled-children-????-??-????.png\">\n  </map>
+
+The Queen's Route: https://www.google.com/maps/@51.5016675,-0.1257623,15z/data=!4m3!11m2!2sxIQbbfq4P786a3F_JpU935CWOIM4jw!3e3
+The Queen's Time Machine: https://www.google.com/maps/@52.2185246,-0.0820493,7z/data=!4m3!11m2!2sHL_WnHdqs3O2F7D3GKksZqdEkrOriQ!3e3
+https://uanon.s3.amazonaws.com/86638e249dc86d1c04a2c379095bd741d56fc5db4e352d95e82c977610079d59/spoiled-children-????-??-????.png
+
+fuzz URL with:
+~/opt/ffuf -w 4.txt:FUZZ1 -w 2.txt:FUZZ2 -w 4.txt:FUZZ3 -u 'https://uanon.s3.amazonaws.com/86638e249dc86d1c04a2c379095bd741d56fc5db4e352d95e82c977610079d59/spoiled-children-FUZZ1-FUZZ2-FUZZ3.png' -fc 403
+
+or get lyrics from video: spoiled children soon to fall
+
+provides a map of the queen's journey with a letter grid
+
+order the locations the queen visited, see the word "ACCESS"
+
+brute "ACCESSAUTHORIZED" for AES, gives https://bit.ly/3vZFBiz
+
+following payload hints, A1Z26 cipher the ACCESSAUTHORIZED
+second payload is FG, Fred & Gladys for Charles and Camilla
