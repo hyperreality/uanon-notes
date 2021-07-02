@@ -1,0 +1,19 @@
+https://www.gutenberg.org/files/52263/52263-h/52263-h.htm#Footnote_1_1
+
+The rolling stone, the homeless one, the wanderer:—he who has unlearned the love of his people because he has learned to love many peoples,—the good European.
+The gloomy, ambitious son of the people, shy, lonely, and ready for anything,—who chooses rather to be alone than to be a destroyer,—he offers himself as an instrument.
+The ugliest man, who is obliged to adorn himself (historical sense) and who is always in search of a new garment: he desires to make his appearance becoming, and finally retires into solitude in order not to be seen, he is ashamed of himself.
+
+Verification succeeded. Use proof 42bbaead0ce59a5952c79cbc0baa1f850b4ee38e96060333fcdd59e51fb3aa20 to reveal the horror show.
+
+
+Lore suggests it's zodiac cipher
+
+Use python script to turn symbols into alphabet
+
+Use AZdecrypt tool for 408 cipher -> homophonic cipher
+
+Use script to tranpose 340 cipher -> homophonic cipher, solve with crib knowing the continuation of first text
+
+errors in text are DEATHS
+combined with LIFE IS from Zodiac history
