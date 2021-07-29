@@ -1,0 +1,72 @@
+{
+  "statusCode": 200,
+  "message": {
+    "season": 2,
+    "realm": "summer+",
+    "id": "8a239ee9e9d80b98f8b9e5a32bef145832d2ee4bd72a8daa733b1d6d384e2061",
+    "title": "A Tale of Two Bacons",
+    "previous": "f6d9fcc969db871cd37704ecd84c976c055e4752d1057e9f30d0c8fa6daa2d5a",
+    "secret": "450e0a3caa5b98ff82ffb412eb303efc018775da52012217e7e9f2c297dee38a",
+    "operation": {
+      "testnet": "oozQYpxCYfX9JwzurCBssPrKQB2J6KFJQqPRPoQBHX2GpPZhnPx",
+      "mainnet": "ooDn6FXAXHHGBvALyFBMYw8FQBggDtyi5Fp5GokFPETxCkthg2Q"
+    },
+    "description": "Which one?",
+    "format": "4 plateaus of despair passed through William IIɮ",
+    "plateaus": [
+      {
+        "name": "Which Witch is Which?",
+        "flavour": "Select which witch is \"Peameal\" and which is \"Gypsy\" from the following options.",
+        "questions": [
+          "Late in my career I was disgraced",
+          "I degraded my lover in public",
+          "Tubal-cain. Mahabone.",
+          "I was stalked by daemons, disaster and loss",
+          "Despite my private pleasures, I publicly distanced myself from the idea of homosexuality",
+          "I was bothered by the odour of an Arab",
+          "Mark Twain believed I am William Shakespeare",
+          "My father was keeper of the Great Seal",
+          "I spent time in jail",
+          "I speak French",
+          "I inspired the logic of sensation",
+          "I formalized the logic of induction",
+          "I am the sum of my contradictions",
+          "I chose not to report a death",
+          "For this answer use faith to make a logical leap"
+        ]
+      },
+      {
+        "name": "A Story of Shame",
+        "flavour": "33e45b2c7f7462961ff9ee2d84d9247b86e585328706c3f41c398efa060689be780c7cf71dc7dbaf2d25a27a86b176586aa72bfe433ca2648007720aab3452da983df7ead12ef3704711ba58a6d80db484794501f725f76f6513cd75f0206d02670bae9e8922214ad108fd23b19ba23c3e42b2b89a6f5790334f30e50e757ed5dabf42a11b102355567888d2aab84e57ed5a055a4340070edc19d4d326ddef5d9356ce0860ec387aaddd3363356afebab8d1490474d7ef3dc2640a7ff423e9a440c4952ba04d53dbb6819147e9a3af00284f223fd0aa1db7a772cdf9de54dfb779d213c474420a3aa28b418af5c85fd3f0411558c266bdd299bec6d0d0544254493add9cc3ff30e0c0c655aeac8c1620ad244899331de8312042e8a687ae5c7bd539a15a6f4b4565d7ca4d64baf4b5c91cb9bfcb4cc1dc471e10bd1f43afb1c7122d368083ebdd0f3d3441e1f3bb66029690645f56748b515707995825a154c91f51a879ad96adbb11f6c48251665d5511751c4fa994016683d651171e51580203f19847f6d10a90e7a793094b3cd924b7b0208743f93dcc78814c9b64e6c3de601a7ae5c1ee42907c8a18e4a66437e29b8288918c661cd7b4dbff5d978564007ece43aecdc5ecee96751caa2fbf79ddda05f35c975587f7007a73b0a35d0f9420c67d9f46ec55a80363759dded8a2a9b179ac7468985ba9a1a3fd7ebf3202f03e5836c828c77689abdf6fbd184fc9492f5d71b878c7898802ca978db02deb7adf1c0df8df2bf1c61e12f92bbc2c90e47b2ec04d0890a10865b435feafbe114eb26a7c610eeb2288a7287c78a24605a19228e7c8c6de1b35768b2ee394e9afbf4e476a9d61c2192295287fde5acdd9bce98ea0473424bc517ccc617cd465a0068d7b7ce6f37c544eb6c4c02de6da9d997469b6bd365e88dff3eacbc126cc83598811f0a2dd12bc0e728794e589bd1b6b4995e5fd8d7a2a34a05fdfea9f2725465f3fb95100ded767a124529ee08a66f80be6e0816e81654c14bcca45332c48d54db01d146c51c0fe446c8045042ea1897a2828420fd2f9d84ed51470a01bc47577ec8f64da4ea7f3969ff28060b36a63bad8c9ebcf3b4b52e121b62c631bb1f1f0c16313152feeb7cf36e93267f68251da8fbcd60c3b142c549f4f4b304ee9f3c0eb815f43f05e5e2b0fb1f1bb81eb4bb61fea13d062220d2144b34f6c78144ffdead8d02d8c2c993e283092a445b7f306ed1b47ee051d7b7d658ed32a8abde0947778e6082ffd84a840c3afdeefac3bbc1e8f998981b6ff53368eb7dcfee393aca85eec84d322f6a22f3247a5eee21d4714a53b4c34adcdc847ba5d69320d43352b809e2a5bef5be546171c0f1b6501fcc8701d15880e5ad5fd92e27834885b75954af152e5fe5c74309507e98e63c5386d1de3cc73ebde727c6b7d0c409d978eef739cbfd6aa5e3d04202e9539adbc1f32b284c2606508243518710a0484421f4fd1d57856066a30827b8a9a7e9a9c0ea226259aefea25c8fcdbcd995fd803e35d960ec57a727ac7f769aff7275d467188eda045a95a2a346c58c6a5e6081cc92e6a8435fa4ce53e462608b6dbdaabe2288e3556769319a2d0aa0261ee06b4eb717b0b8aaa21637500f43c4cc5526ca565259f44dd3fd3568a190509a536c401dbb4158a1b915d7e1899a7c5dc7996c413e12ee861ca41c0a1c51719faf428982a1258ca7603db103114c03e4308bc24a5ca787f96515ff998a5112190ae2d826ddc9a73fb681379cfe1ee1862b14ab683ed48b0d005c9ee87f8acce932be98bef0a09d31668e76eab938b81846f967a932b4de66202d132d73bad0ef0af634699a623086d2ed5eda13c027c084c9bed99c8b9774663670c8b0fd8adac0172d1ba8c5ad0140058981960f3151e4b35ced5824e35198eb06bc1ee83fbf6b41dfaa09aa652a98ea980823a895ee47b2c41210e5eb02691749d1852f535a1d46973884caf24dbb2bcfae3a8487c054029a0a3c8813987fd04df40475896efaff9b95347d1a0095e6e6695e45c16eaebcb156d4961855cd8695df4a02f0c526e66229cd8d5a23f89f60cff7a9b52cb64e772aef11974460829ffb9b28afd26a810376603bed6c7e4c2b8a3c41061aa7d73a8e3f76784e538564d626e03a0c18123ac6fec668a08c6be68ca7fef1b3ef236090df727e08abe2274af2de7a07f91e2086636711341773700024a1f9aeb0f393b2bf5e029ec05f695682ab1686bd267404bcea1cc7aaadd3434a1e8f578b1d233285d43c5b0289d95508c108f4a186336171e521d7bfadc77649af7d1e15da7f69d18280eaf722d3bb3ccc3393284f732773cf456da54d1b41e7457ae08ed4796dffce6a07957c92cf9a9202311a6f97889dd43034f5292b4074d61b612dfd94999b9d06de1e8478fcd968c728284fb4b9a0fb163034fe9d81bf27ba1c10ac2cf05ee34a66f1015b0fc388d1208d93ec24d1d3fe3dea0c8d49bbfafb3ec158a914f0c74bbf8b9935322daed65ba72c05e04433b2efff7f80f2c2196d9f92b79df89851b897f67307cf0379a53cde09de471b2a7fd0fbb63df519d89dd5f1f606feff0438ec21f0b20f04dc07eae1daff23b065b629f6a6ffb4279908024ee6a0f9f691a1f3fe0889cf66ca7f4d9e6558aa18fe8c3922074153125a8408f59302849abf2a5256699d33550a4d92ed3ffaeb28dd578d4cb194aba01e296da1e81032c118c97cfd6768fa316c76982fc6ecd93994ca5f75d9c25d867816fba8026fa6a62e30a558053d44212708e21bcb57d7f6913a261ab5eaca9ec35875a293f5638999907d91b12182397390f21363ffd46206ba3fc9efee3f755731e05270503a8dd6b184cb14a0ac52789706e7e5fa7bf49454edbce183bb8a4c81d07a235a9812992eb7156de2db3214257b3aa39301e80af163ba4c0b13b3e63cf9ed719fd583cc95943b80f0a05267f1798b3d2e6cda1c8bf6c48c69d9beb889903aa5889839282889942d134d632c4510e06a85168ab18256e55898d84ce14b3afda07308713f35dd596c0be6addfd95f65d89be4e7806c96b112854eaf242ac177785d4f8a1ff95b1dc6d9d3a66add8b0be684f121ce42c7fa65a4c106b48983621e106c2f48ef292bfa8e3769dec4e6f5918ea6818ab6afb4ae01829747c5b231b90a3f421f8dbc29525776d662cf90e38cd3ca9715f3186c57e897e50ae207dccdfb07edafa10bd472762fe4b39044f12bea182751339a3a9f78246ce1075b5a74da5c70546e1bd3b569b0fb13c34b6ce1cbe110d817b37382232ffc7033d14ae205827b55b6d2d1d50b75348045228e215",
+        "secret": "3d58412c4452ec0aebf0f5775b376fd1b506a7f3f9571addbff1d572bd670bfc",
+        "template": "Peameal, the highest legal officer in the land was accused of having taken bribes. The legal process of the impeachment and trial by parliament, was revived after a 150-year interval and the subject was found guilty. He was dismissed from his job, fined and imprisoned in the King's Tower.</p><p>Though it were uncommon in such cases, he readily admitted his guilt. He referred to what he received as \"briberies and gifts\", reflecting on the overlap between these two categories. Moreover, he was to some degree, the victim of a political campaign against his patron, the more obviously corrupt Duke, who was later assassinated. His cruel twist of fate was not but a petty attack on the Duke of Buckingham by proxy.</p><p alt=\"Start here\" title=\"Start here\">D<span class=\"b\">r</span><span class=\"b\">a</span>w<span class=\"b\">i</span>n<span class=\"b\">g</span> a <span class=\"b\">b</span><span class=\"b\">o</span>u<span class=\"b\">n</span><span class=\"b\">d</span>ary <span class=\"b\">b</span>etw<span class=\"b\">e</span>en p<span class=\"b\">r</span><span class=\"b\">i</span>vat<span class=\"b\">e</span>&nbsp;<span class=\"b\">a</span>nd <span class=\"b\">p</span><span class=\"b\">u</span>blic, <span class=\"b\">b</span>e<span class=\"b\">t</span>wee<span class=\"b\">n</span> an <span class=\"b\">i</span>llicit b<span class=\"b\">r</span>ibe a<span class=\"b\">n</span>d <span class=\"b\">l</span><span class=\"b\">i</span>c<span class=\"b\">i</span>t <span class=\"b\">g</span><span class=\"b\">i</span><span class=\"b\">f</span>t i<span class=\"b\">s</span>&nbsp;<span class=\"b\">h</span><span class=\"b\">a</span>rd. <span class=\"b\">G</span>ift giv<span class=\"b\">i</span>ng <span class=\"b\">w</span>as <span class=\"b\">a</span>n int<span class=\"b\">r</span><span class=\"b\">i</span>n<span class=\"b\">s</span>ic <span class=\"b\">p</span>ar<span class=\"b\">t</span> of s<span class=\"b\">o</span><span class=\"b\">c</span>ie<span class=\"b\">t</span>y a<span class=\"b\">n</span><span class=\"b\">d</span>&nbsp;<span class=\"b\">c</span>omm<span class=\"b\">o</span>n p<span class=\"b\">r</span>actic<span class=\"b\">e</span> among f<span class=\"b\">r</span>i<span class=\"b\">e</span>nd<span class=\"b\">s</span>. <span class=\"b\">D</span>o <span class=\"b\">y</span>o<span class=\"b\">u</span> tr<span class=\"b\">u</span><span class=\"b\">s</span>t <span class=\"b\">y</span><span class=\"b\">o</span>ur f<span class=\"b\">r</span>iends?</p>",
+        "format": "Latin, lowercase"
+      },
+      {
+        "name": "Logical Induction Oven",
+        "flavour": "24b521c405c3392f4e8b29160e5e97baa094459435a474b6345f75cc87222f87b150f38ad303086c3666bb0d9d4a8bf2237b4709963e4ced2db93c85602be5b9e661005e74c00e36e35fdc11382a24288468dd3c55f475b980280ee35573349823712d09dd9ee915c5ff31eac9a677b18df8ec85bff3bf88bfba90fc110e631bf1b0c8444f82230fd294c7560ebdbb7f25bf0ce6b373fd5355a64cc5cc44a13874ac9b1cd16b56b9643c202504290fd275cef4c620fca8cf10056bfa5862774dcb871dc848933fd0b9b8203260bd68eadcfce331b043528c93b18907403ba18c788b4b2cb7f8fdadedf75224ed091a7c260a987c627c5d0cfeedad3ed817ce97891dd88ea37082490dd2dc6600b80c41bc5b8664b33851c3be36bb875c092cb228f4f6e6274a342187b85c00587072abbdeab62e2a78753dd910acc65ee184750a8b0a8c2169400d2fcee6ee6d03ce186112a0ab9b6de8d3954898a3ad565419affe8494468a0faa3b47d2317f4c49320f4a05e9dbf0c0fdd25ea662cbeb617513a0ce7f7901cdaed0a8aca887e0a5659fa8e1f32e40b4b44a6dbcc0261622a883a7efb41e9f7ca27d9a942b09e6bf457f639e9099878b9ef56ed99f24662e8a7f9ba8a72b44b000068084e76f21a441dd63aa46b3030b0e508a098934bd1058e15cff864b1a9025c9fd324b5b4261364d4dba34c5ab5cfb7cf7c32effcb4ee0709bf8bd4ca261bd4b17ac7d704d95ee98120e75fb3f68f45489f6279c228e3441f5ce1fcd009e0f0881771732ea3ec47f2d779845708e2037af87e5864d4f62acb6ba567da16d7187cf8fd5c219d16a9f42a2b6ca9422d43c96eaf9d0dbfc68",
+        "secret": "30481aea5241539fbdd9d0822cda4d89c9978d796fde2910ed92a3f9a8864cca",
+        "template": "<p>Remember if it looks like a duck, swims like a duck, and quacks...</p><ul><li>First, that simulata sanctitas be not in the church; for that is duplex iniquitas.</li><li>Secondly, that inutilis æquitas sit not in the chancery; for that is inepta misericordia.</li><li>Thirdly, that utilis iniquitas keep not the exchequer; for that is crudele latrocinium.</li><li>Fourthly, that fidelis temeritas be not his general; for that will bring but seram pœnitentiam.</li><li>[(0,2),(53,54),(57,59),(68,69),(90,100),(276,283),...]</li></ul><p alt=\"Final char is â\" title=\"Final char is â\">4 words.</p>",
+        "format": "Latin, lowercase"
+      },
+      {
+        "name": "Iconoclassism",
+        "flavour": {
+          "template": "<p alt=\"εἰδωλολατρία\" title=\"εἰδωλολατρία\">Starting at 1, assign the correct ordinal number and label to each of the following items</p>",
+          "files": [
+            "01bccd6a75655f8fb53199078061bbbe4694edfe5f38b97df61f36ab3850e709.pdf",
+            "43e4a6c0f8673d2b7b6d81f94674ffb1c6401cf7c93a931dc222d54da5467f36.jpg",
+            "74e4b0a91f14d49db4821bd5b13cfae97adb37794ceab18272c9de458ea181a9.jpg",
+            "64eb87e3b9cb641fcdb082d359ff75ad69baec691cdc67efd455b55662ccdc13.jpg"
+          ]
+        },
+        "format": {
+          "ordinal": "Number",
+          "label": "Latin, lowercase"
+        }
+      }
+    ],
+    "fields": 4,
+    "hint": "When you have crossed all 4 plateaus, use the `Cook` button in the last plateau to prepare your solution for the Graphical Solver"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "statusCode": 200,
+  "message": {
+    "id": "c13bf4f76b460934bcec078ad5633512f404b02bb7964a0c88f75888dfe3a0de",
+    "index": 9,
+    "title": "China Girl",
+    "previous": "68d31f335ce4cc522565d7a33c6a0c57da4a79abb03fcec24dd76a11726e9d66",
+    "secret": "3424e850da194a21ae5f3c6f5a5e65118390c49d43676f20373ac04551f12333",
+    "operation": {
+      "testnet": "op8Fk7CDKp9MW8WZw3AnvjjMFt3ZJ6rsK6xaLitcdtWgBDXB9dk",
+      "mainnet": "onjGLU1kfF3Wq5B3aLpERih5ve9eMV8R1q4Ziu8Gpji152R73vt"
+    },
+    "description": "The submissive Oriental woman and the cruel white man",
+    "payload": {
+      "value": "https://www.youtube.com/watch?v=_YC3sTbAPcU&list=PLZYfmDEIwz9tm_TvGPOOSaQhb2Vgsf9ar&index=8",
+      "format": "Full sentence, including punctuation"
+    },
+    "metadata": {
+      "youtube": "J-0LOQDGABo",
+      "alt": "Well did you find it?"
+    },
+    "files": [
+      "https://uanon.s3.amazonaws.com/c13bf4f76b460934bcec078ad5633512f404b02bb7964a0c88f75888dfe3a0de/china-girl.png"
+    ],
+    "template": ""
+  }
+}
+
+
+Stegsolve -> letters.png hidden in red plane
+
+$ pngcheck -v china-girl-puzzle.png
+File: china-girl-puzzle.png (2350391 bytes)
+  chunk iwTF at offset 0xe9cf3, length 1392688
+    unknown private, ancillary, unsafe-to-copy chunk
+
+dd if=china-girl-puzzle.png ibs=1 skip=957687 count=1392688 of=strange_chunk.bin
+
+XOR strange_chunk.bin with original PNG (unxor-final.py)
+
+Gives a broken PDF, repair it with online tools
+
+Use letters hidden in red plane
+
+6:22:8 first
+4:10:5 is,
+2:20:2 not.
+3:5:8 day
+5:5:2 throat
+4:1:8 home.
+6:1:2 ending
+2:10:1 Perhaps
+5:2:38 a
+4:4:10 Rene
+3:1:13 inept.
+2:12:1 That's
+5:1:16 years.
+
+First letters = "findtheparity"
+
+Final answer implemented into solve_qr.py:
+- Divide the image into squares the same size as the swirls
+- then calculate the parity in the green bit plane 0 for each square
+- there were 33*33 squares, giving you a tiny QR
+
+"I rejoice that I have so well selected the subjects of my experiment."

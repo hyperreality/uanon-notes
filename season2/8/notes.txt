@@ -19,16 +19,13 @@ The Queen's Route: https://www.google.com/maps/@51.5016675,-0.1257623,15z/data=!
 The Queen's Time Machine: https://www.google.com/maps/@52.2185246,-0.0820493,7z/data=!4m3!11m2!2sHL_WnHdqs3O2F7D3GKksZqdEkrOriQ!3e3
 https://uanon.s3.amazonaws.com/86638e249dc86d1c04a2c379095bd741d56fc5db4e352d95e82c977610079d59/spoiled-children-????-??-????.png
 
-fuzz URL with:
-~/opt/ffuf -w 4.txt:FUZZ1 -w 2.txt:FUZZ2 -w 4.txt:FUZZ3 -u 'https://uanon.s3.amazonaws.com/86638e249dc86d1c04a2c379095bd741d56fc5db4e352d95e82c977610079d59/spoiled-children-FUZZ1-FUZZ2-FUZZ3.png' -fc 403
-
-or get lyrics from video: spoiled children soon to fall
+get lyrics from youtube playlist video: spoiled children soon to fall
 
 provides a map of the queen's journey with a letter grid
 
 order the locations the queen visited, see the word "ACCESS"
 
-brute "ACCESSAUTHORIZED" for AES, gives https://bit.ly/3vZFBiz
+guess "ACCESSAUTHORIZED" for AES password, gives https://bit.ly/3vZFBiz
 
 following payload hints, A1Z26 cipher the ACCESSAUTHORIZED
-second payload is FG, Fred & Gladys for Charles and Camilla
+second payload is FG (from podcast), Fred & Gladys for Charles and Camilla
