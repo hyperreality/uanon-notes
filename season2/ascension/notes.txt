@@ -1,27 +1,62 @@
-Which Witch is Which?
+# PLATEAU 1: Which Witch is Which?
 
 Peameal = Renaissance Bacon = R
 Gypsy   = Painter Bacon = P
 
-P   I was stalked by daemons, disaster and loss
-P   I inspired the logic of sensation
-R   I formalized the logic of induction
-R   My father was keeper of the Great Seal
-P   I degraded my lover in public
-P   I am the sum of my contradictions
-P   I chose not to report a death
-R   Tubal-cain. Mahabone.
-R   Late in my career I was disgraced
-R   Despite my private pleasures, I publicly distanced myself from the idea of homosexuality
-P   I speak French
-R   Mark Twain believed I am William Shakespeare
-R?  For this answer use faith to make a logical leap
-P   I was bothered by the odour of an Arab
-R   I spent time in jail
+Gypsy       I speak French
+Gypsy       I am the sum of my contradictions
+Gypsy       I inspired the logic of sensation
+Peameal     Mark Twain believed I am William Shakespeare
+Gypsy       I degraded my lover in public
+Peameal     Late in my career I was disgraced
+Peameal     My father was keeper of the Great Seal
+Peameal     Tubal-cain. Mahabone.
+Peameal     Despite my private pleasures, I publicly distanced myself from the idea of homosexuality
+Peameal     I spent time in jail
+Peameal     I formalized the logic of induction
+Peameal     For this answer use faith to make a logical leap
+Gypsy       I was stalked by daemons, disaster and loss
+Gypsy       I chose not to report a death
+Gypsy       I was bothered by the odour of an Arab
+
+Cooks to:
+00e523c209be6e0057514c0f3c201738667f1d205b201e165ed0d16e7f27a92b
+
+Use cooked value to confirm answer by decrypting next plateau flavour text:
+<p>In 1621 Lord Chancellor Bacon, the highest legal officer in the land, was accused of having taken bribes. The legal process of the impeachment and trial by parliament, was revived after a 150-year interval and Peameal was found guilty. He was dismissed from his job, fined and imprisoned in the King's Tower.</p><p>Though it were uncommon in such cases, Peameal readily admitted his guilt. He referred to what he received as "briberies and gifts", reflecting on the overlap between these two categories. Moreover, he was to some degree, the victim of a political campaign against his patron, the far more obviously corrupt Duke of Buckingham, who was later assassinated. Attacking Peameal was an attack on the Duke of Buckingham by proxy.</p><p>D<span class="b">r</span><span class="b">a</span>w<span class="b">i</span>n<span class="b">g</span> a <span class="b">b</span><span class="b">o</span>u<span class="b">n</span><span class="b">d</span>ary <span class="b">b</span>etw<span class="b">e</span>en p<span class="b">r</span><span class="b">i</span>vat<span class="b">e</span>&nbsp;<span class="b">a</span>nd <span class="b">p</span><span class="b">u</span>blic, <span class="b">b</span>e<span class="b">t</span>wee<span class="b">n</span> an <span class="b">i</span>llicit b<span class="b">r</span>ibe a<span class="b">n</span>d <span class="b">l</span><span class="b">i</span>c<span class="b">i</span>t <span class="b">g</span><span class="b">i</span><span class="b">f</span>t i<span class="b">s</span>&nbsp;<span class="b">h</span><span class="b">a</span>rd. <span class="b">G</span>ift giv<span class="b">i</span>ng <span class="b">w</span>as <span class="b">a</span>n int<span class="b">r</span><span class="b">i</span>n<span class="b">s</span>ic <span class="b">p</span>ar<span class="b">t</span> of s<span class="b">o</span><span class="b">c</span>ie<span class="b">t</span>y a<span class="b">n</span><span class="b">d</span>&nbsp;<span class="b">c</span>omm<span class="b">o</span>n p<span class="b">r</span>actic<span class="b">e</span> among f<span class="b">r</span>i<span class="b">e</span>nd<span class="b">s</span>. <span class="b">D</span>o <span class="b">y</span>o<span class="b">u</span> tr<span class="b">u</span><span class="b">s</span>t <span class="b">y</span><span class="b">o</span>ur f<span class="b">r</span>iends?</p>``... (3 KB left)
 
 
-A Story of Shame
+# PLATEAU 2: Logical Induction Oven
 
 https://www.historyextra.com/period/stuart/bribes-gifts-and-scandal-7-stories-of-corruption-that-shocked-britain/
 
-DraigbondberieapubtnirnliigifshaGiwarisptoctndcoreresDyuusyor
+Use bacon cipher decode script to decode bacon cipher to:
+omnis subita immutatio est periculosa
+
+Cooks to: 230dca2870c472926d78ee1a225112a52b3093e1fdb039c6cde32b0e59249ab0
+
+Decrypt next plateau flavour text:
+<p>Remember if it looks like a duck, swims like a duck, and quacks...</p><ul><li>First, that simulata sanctitas be not in the church; for that is duplex iniquitas.</li><li>Secondly, that inutilis æquitas sit not in the chancery; for that is inepta misericordia.</li><li>Thirdly, that utilis iniquitas keep not the exchequer; for that is crudele latrocinium.</li><li>Fourthly, that fidelis temeritas be not his general; for that will bring but seram pœnitentiam.</li><li>[(0,2),(53,54),(57,59),(68,69),(90,100),(276,283),...]</li></ul><p>Grasping forewards, Latin 1, lowercase</p>
+
+
+# PLATEAU 3: Logical Induction Oven
+
+Check next line of book, contains following quote:
+anguis sub viridi herba
+But due to hover text, should be:
+anguis sub viridi herbâ
+
+2caa9373687f0fe315b6e7d72a62ef2cf98d111fe19f91d8bfbf4f060ea5ba75
+
+
+# PLATEAU 4: Iconoclassism
+
+Plateau four labels:
+idola tribus (Idols of the tribe, caused by anthropomorphism)
+idola specus (Idols of the Cave, caused by one's personal peculiarities and experiences)
+idola fori (Idols of the Market Place, caused by language)
+idola theatri (Idols of the Theatre, caused by philosophers)
+
+3,4,1,2
+
+155aacdeb41d5452d3c727ab0c64276ce745e6c1b437a70d19d131a4dd93bacd
