@@ -7,3 +7,5 @@ code            where                           found_at
 ????PXXV+MP     Mt Etna, Sicily                 s2 pre puzzle video (https://www.youtube.com/watch?v=_7excqHgH1I) note: Bel canto castrata e Passò, Italy
 ????GC38+X3     Mt Royal Park, Montreal         s2 nft. Given as "GC38+X3, Montreal". Specifically points to the grand staircase.
 ????48V2+QH     Glastonbury, UK			s2 video NFT puzzle (https://www.youtube.com/watch?v=Ddpy0kisXwk). Given as "48V2+QH Glastonbury"
+8HCV399C+X2	Kopet Dag, Iran			s3 nft. Given as 399C+X2 تازه قلعه ترکها،
+7MWG2FX3+C2	Gasa, Bhutan			s3 video NFT puzzle (https://www.youtube.com/watch?v=ZC8abIUDhAc)
