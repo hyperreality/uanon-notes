@@ -32,3 +32,12 @@ Something we know only when we  C it
 
 (Unlock with correct lyrics, uppercase, no punctuation or spaces)
 0b19836f1131dc6cf61f694723420dbb34171fb8927c3fbd59ad089a6669dee00c109ed8ff52e1fb5e0aafefde98b514
+
+
+Take each letter that follows double space
+
+>>> a = "nllKhjaCnllKhjaC"
+>>> [ord(b) for b in a]
+[110, 108, 108, 75, 104, 106, 97, 67, 110, 108, 108, 75, 104, 106, 97, 67]
+>>> [hex(ord(b)) for b in a]
+['0x6e', '0x6c', '0x6c', '0x4b', '0x68', '0x6a', '0x61', '0x43', '0x6e', '0x6c', '0x6c', '0x4b', '0x68', '0x6a', '0x61', '0x43']

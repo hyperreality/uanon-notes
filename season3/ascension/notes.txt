@@ -1,0 +1,7 @@
+Have to find correct order that NFTs will be generated using https://github.com/Chain-of-Insight/uanon-contracts/blob/main/contracts/partials/nft_proxy/rarity.ligo
+
+And seed found on BCD
+
+But bruteforce assuming all five will be common
+
+Answer: uanon{When_I_return_I_will_thank_the_Lwa}

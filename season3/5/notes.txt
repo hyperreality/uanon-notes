@@ -1,0 +1,9 @@
+Just a self-reflected XSS, also POSTs to API
+
+Checks for specific payload like:
+<script>alert('URL')</script>
+<script src="URL">
+
+Must be HTTPS url (!?)
+
+Sends back ?flag=uanon{sk1ddies_g0n_skiD_R0flc0pT3r}
