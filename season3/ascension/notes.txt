@@ -1,6 +1,6 @@
 Have to find correct order that NFTs will be generated using https://github.com/Chain-of-Insight/uanon-contracts/blob/main/contracts/partials/nft_proxy/rarity.ligo
 
-And seed found on BCD
+And seed found on BCD, see setNft storage on https://better-call.dev/mainnet/KT1AUaGsGAkiYgH5wXvQ2tR8JV5dTkenM8XN/operations
 
 But bruteforce assuming all five will be common
 

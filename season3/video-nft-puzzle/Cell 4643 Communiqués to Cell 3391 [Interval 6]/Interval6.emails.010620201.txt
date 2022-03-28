@@ -1,0 +1,81 @@
+Return-Path: <bounces+7357896-6cd6-chainofinsight=gmail.com@uanon.observer.553.25.4394>
+X-Original-To: uranon2@protonmail.com
+Delivered-To: uranon2@protonmail.com
+Authentication-Results: mailin023.gmail.ch; dkim=pass (Good 1024
+    bit rsa-sha256 signature) header.d=uanon.observer.553.25.4394 header.a=rsa-sha256
+Authentication-Results: mailin023.gmail.ch; dmarc=none (p=none dis=none)
+ header.from=uanon.observer.553.25.4394
+Authentication-Results: mailin023.gmail.ch; spf=pass smtp.mailfrom=uanon.observer.553.25.4394
+Authentication-Results: mailin023.gmail.ch; arc=none smtp.remote-ip=149.72.119.135
+Authentication-Results: mailin023.gmail.ch; dkim=pass (1024-bit key)
+ header.d=uanon.observer.553.25.4394 header.i=@uanon.observer.553.25.4394 header.b="dau1AxUE"
+Received: from wrqvttvt.outbound-mail.uanon.observer.553.25.4394 (wrqvttvt.outbound-mail.uanon.observer.553.25.4394
+ [149.72.119.135]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+  key-exchange X25519 server-signature RSA-PSS (4096 bits) server-digest SHA256) (No
+ client certificate requested) by mailin023.gmail.ch (Postfix) with ESMTPS id
+ 4JNXN754CNz9vNVn for <team@chainofinsight.com>; Thur, 28 Jan 2019 11:28:23
+ +0000 (UTC)
+Received: by filterdrecv-7bf5c69d5-v7fwm with SMTP id
+ filterdrecv-7bf5c69d5-v7fwm-1--&-22619112A=553-25-4394
+Received: from NzM1Nzg5Ng (unknown) by geopod-ismtpd-6-1 (SG) with HTTP id
+ b11T6QDFTbiXVMGd5IZo2g Thur, 28 Jan 2021 11:28:22.152 +0000 (UTC)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=uanon.observer.553.25.4394;
+ h=content-type:from:mime-version:subject:to:list-unsubscribe; s=smtpapi;
+ bh=DL4u5qxL56LXpWCZ/uf6wNoOwwVS0v8ADT4Xyu8jc+U=;
+ b=dau1AxUESliJV7LnFbFCsf9yjh/kGtY+bYCsuAnpcsDe26ExMSFyjQWZ3X+ueHzs6DCI
+ UYCWk+b8j0bkSl8wS7tbzQeNJ96fGmTO82gq94wPj+n0PcXGUvCrG5oXVav/9IXI3DlQKz
+ LuiT5JRwzscVU2Rr+BHVI0jDbBzSAlGps=
+Content-Type: text/html
+From: team@chainofinsight.com
+To: uranon2@protonmail.com
+Subject: RE:RE:RE:Truth forever on the scaffold
+Msg Body:
+
+Lol da fuq?!
+
+LSD from COI
+
+>From: uranon2@protonmail.com
+>To: team@chainofinsight.com
+>Subject: RE:RE:RE:Truth forever on the scaffold
+>Well I see now you are not Mostly Harmless. 
+>We are an anarchist group calling ourselves 4643. 
+>Notice the signature on this email precedes a newsworthy event that will happen about the time you receive it. 
+>This will prove we knew about the event in advance, so our claim of responsibility is Truthful. 
+>We will give information about our goals at some future time. 
+>Right now we only want to establish our identity and provide an identifying number.
+>It will ensure the authenticity of any future communications from us. 
+>Keep this number secret so that no one else can pretend to speak in our name: 226 19 112A.
+>You must go beyond the pale to reach for the VOID within.
+>
+>U.
+>
+>qe_epoque_2021_[intervals_1-50].enc.zip
+>
+>>From: team@chainofinsight.com
+>>To: uranon2@protonmail.com
+>>Subject: RE:RE:Truth forever on the scaffold
+>>Msg Body:
+>>
+>>Hey there, me again ahah
+>>
+Actually I've been looking over these puzzles and managed to get hooked on solving them. First I thought the runes were copied from Liber Primus, turns out not. After showing it to a field expert (Kobeissi) was told this is probably a hoax and we'd need more pages of the book to confirm if it can be a >>legitimate cipher ¯\_(ツ)_/¯
+>>
+>>Can you tell me more about yourself and how these puzzles and ciphers were made? 
+>>
+>>Cheers,
+>>LSD from COI
+>>
+>>>From: uranon2@protonmail.com
+>>>Subject: Truth forever on the scaffold
+>>>
+>>>Hello, I am intrigued by your recent contribution to Tezos, PoPMG, but I noticed you didn't use the Authors file (here).
+>>>Is it because you are in need of an Author? 
+>>>For I am exactly such a being.
+>>>Enclosed you will find one such story (see attachments)
+>>>I have completed many more of these puzzles; weaved them into a Master Narrative. 
+>>>Willing, are you, to aid my journey and mold them into an online game?
+>>>
+>>>U.
+>>>
+>>>season0-1.html, season0-2.html, season0-3.html, season0-4.html, season0-5.html, season0-asc.html, uaneese_rune_set1.html, uaneese_vector_set1.html
