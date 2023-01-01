@@ -1,0 +1,37 @@
+https://uanon.s3.amazonaws.com/1848009912da48ca8ab7f21820ab752b13f4044369a522eeb1b77229eb990dcf/index.js
+
+a = ['0111', '11', '0', '101010', '1011', '0100', '01101', '11100', '110', '11', '11', '000', '000', '11110'];  // lower i/o
+b = ['0111', '11', '0', '101010', '1011', '0100', '01101', '11100', '0111', '00', '100', '011', '000', '1'];    // lower Depth
+
+Morse
+
+BIT.LY/3UIIOO4
+BIT.LY/3BMWDOE
+
+The comments are the formatting
+
+https://uanon.s3.amazonaws.com/1848009912da48ca8ab7f21820ab752b13f4044369a522eeb1b77229eb990dcf/db8663bcfe8ec5946a6b17be66ab74bef719bd220cefa8fd4dddf4a8947fb4f7/heardonhigh/heardonhigh-angel.bmp
+
+https://uanon.s3.amazonaws.com/1848009912da48ca8ab7f21820ab752b13f4044369a522eeb1b77229eb990dcf/db8663bcfe8ec5946a6b17be66ab74bef719bd220cefa8fd4dddf4a8947fb4f7/2dcd739ccd22a5b1cc8ff31f6b303bae05a03b8224248c6fa108251d0a394208.txt
+
+
+
+
+This mustn't fall into the wrong hands. You were always more devout than I was. ESV Isaiah 59:9, first three words, and then la6t 6 word6. Guard what you receive CALLOUSLY.
+
+
+echo -n "Therefore justice is brightness" | convert -region 1200x1350 -gravity Center angel.bmp -decipher - out-1.bmp
+echo -n "but we walk in gloom" | convert -region 1200x1350 -gravity Center out-1.bmp -decipher - out-2.bmp
+
+
+But only worked in IM 7!
+
+
+Come with the gladsome shepherds,
+quick hast’ning from the fold;
+come with the wise men, pouring
+incense, myrrh and gold.
+Come to Him, poor and lowly,
+around the cradle throne,
+come with your hearts of sunshine,
+and sing the angels' song

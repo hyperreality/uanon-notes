@@ -1,0 +1,20 @@
+Numbers in gen4 and gen5
+Break into groups of 8, decodes to "the monster inside of us began as a baby" by substitution
+
+https://en.wikipedia.org/wiki/Baby_monster_group
+
+Baby:  
+4154781481226426191177580544000000
+
+
+Monster:
+808017424794512875886459904961710757005754368000000000
+
+Doesn't matter what is entered for g (subgroups)
+
+
+The shadow escapes from the body  like an animal we had been sheltering
+
+
+
+

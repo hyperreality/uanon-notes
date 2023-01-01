@@ -1,0 +1,3 @@
+$darling = new GF();
+var_dump($darling);
+die('');

@@ -1,0 +1,6 @@
+begin
+rescue =>
+	# Together we're al`0x6c`one
+
+	assert(DOMINANCE, "Over the land")
+	raise "Fear and cultivate impermanence" unless DEATH?

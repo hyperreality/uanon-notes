@@ -1,0 +1,7 @@
+#define DESPAIR "I feel this way all the time"
+
+void mortal()
+{
+    void* screaming = true;
+    func('AHHHHHHHHHHHHHHHHHHHH', screaming);
+}

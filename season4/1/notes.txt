@@ -1,0 +1,39 @@
+{"statusCode":200,"message":["09f8b6eaef24133b83a5db28c21b56d3375d3bcfc2c2460edd315ebcd0249d2a","b0911320c6e27fe164d96d6df1f82f54443f35a5b4cc98b64d2556339aeabdf6","da3e571b791539a4ad9993467c664e77a092f3898b70d822232e020253c744d6","adf72678c1cbc307c3d2e4f757ff0020f665624ffd3da36d325644f15e19cbc2","e3fe66cd3948f293ef77c16e3df4b36bad7a5d06404e175d18c44bbbb63a7ed1","823f5c2958976069579ee41ec4f9d4a9ffc1937690ce4ba62fda93578cb89a6a"]}
+
+{"statusCode":200,"message":{"id":"ae453df3f2312a53358d6ae116a78d9cbfdf04a3b035353757d82a20815c3714","index":0,"title":"To Die By Your Own Sword","previous":false,"secret":"09f8b6eaef24133b83a5db28c21b56d3375d3bcfc2c2460edd315ebcd0249d2a","operation":{"testnet":"opBNTsbDEZM4fiFm2c56neHbpUFXJZDhvMdQqC45qZmX5gCxLev","mainnet":"oo8XmSstSocb9vK84PiZRteS5ASCjmrd4Do1c5KtBdYWdiVdrTN"},"description":"Gameunder","payload":{"value":"<span alt=\"https://www.youtube.com/watch?v=td-e4i2BL_Q\" title=\"https://www.youtube.com/watch?v=td-e4i2BL_Q\">Tricky Drama</span>","format":"The correct array of timestamps (hh:mm:ss), ordered by time"},"tricky":[[91,93,4],[187,189,0],[187,189,2],[220,222,3],[222,224,7],[246,248,3],[256,258,7],[258,259,1]],"drama":["wrong","there we go","whoa","pure","~~~~~~~~~~~~~~~~~~~shoa","everyting is ok","u guys getting good frma rate","tonight is a good night","how many people are watching this non=sense","I haven't finished going through my bag"],"warning":"<strong>Parental Advisory (Explicit Content): puzzle contains violence, mature themes, flashing images, and coarse language.</strong>","fields":10,"hint":["Use the graphical solver to submit"]}}
+
+
+tricky":[[91,93,4],[187,189,0],[187,189,2],[220,222,3],[222,224,7],[246,248,3],[256,258,7],[258,259,1]],
+
+
+1:31 1:33
+3:07 3:09
+3:07 3:09
+3:40 3:42
+3:42 3:44
+4:06 4:08
+4:16 4:18
+4:18 4:19
+
+00:01:32
+00:03:08
+00:03:08
+00:03:41
+00:03:43
+00:04:07
+00:04:17
+00:04:19
+
+
+http://www.xxxswim.com/ripper.html
+
+[ 02:11:12 ]  [ ripper ] pure
+[ 02:21:16 ]  [ ripper ] how many people are watching this non=sense
+[ 02:23:19 ]  [ ripper ] I haven't finished going through my bag
+[ 02:24:40 ]  [ ripper ] there we go
+[ 02:26:40 ]  [ ripper ] u guys getting good frma rate
+[ 02:27:42 ]  [ ripper ] wrong
+[ 02:30:13 ]  [ ripper ] everyting is ok
+[ 02:46:28 ]  [ ripper ] tonight is a good night
+[ 02:49:14 ]  [ ripper ] whoa
+[ 03:05:39 ]  [ ripper ] ~~~~~~~~~~~~~~~~~~~shoa
