@@ -1,0 +1,7 @@
+Concatenate base64 from image
+
+Build QR, key with spaces from https://github.com/Chain-of-Insight/project-uanon/blob/baf76b6ea3c493d73e68f0e4494feaaccd2765f6/client/src/components/seasons/season5/CryptoWinter1.vue#L53
+
+"Go back and extract data using X Go back and extract data using X"
+
+Use original values of key-selected bits to get binary AES key for next trailing encrypted data
