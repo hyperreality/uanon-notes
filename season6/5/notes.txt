@@ -1,0 +1,16 @@
+Use mu_decrypter.py to solve MU puzzle
+https://en.wikipedia.org/wiki/MU_puzzle
+
+That gives a link to 420_THE_GAME.zip
+
+Plus a bunch of base64, combined to b64_combined.txt
+
+And also gives plus and minus, which are binary shifts on the original key from season 5
+So GRIFT$ get shifted to SHIFT$ which is the zipfile password
+
+fcrackzip --use-unzip --dictionary --init-password <(python3 grift.py) 420_THE_GAME.zip
+
+
+Read game story for answers
+
+Use brute.py for final answer

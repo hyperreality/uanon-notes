@@ -1,0 +1,630 @@
+ROOM 2
+Front Balcony
+DOWN 3
+LOCKED_DOOR (East)
+SPECIAL 7 (* Tap window *)
+KEY 214
+END_ROOM
+
+ROOM 3
+Street Level
+UP 2
+NORTH 5
+EAST 6
+WEST 4
+SOUTH 6
+END_ROOM
+
+ROOM 4
+St Urbain
+GAME_END
+END_ROOM
+
+ROOM 5
+Wrong Way
+East 6
+West 4
+South 3
+END_ROOM
+
+ROOM 6
+Combustion
+GAME_END
+END_ROOM
+
+ROOM 7
+Hallway
+East 8
+POINTS 400
+END_ROOM
+
+ROOM 8
+Common
+GAME_WIN
+END_ROOM
+
+
+ROOM_DESCR 2
+This is the West side of the building. 
+On the right side of the door frame is a mailbox. 
+The stairs leading down to the street glisten with rain.
+END_ROOM_DESCR
+
+ROOM_DESCR 3
+You reach street level and catch 
+a soaker from puddles on the sidewalk. 
+On St. Urbain the cars are flying passed you. 
+You probably don't want to walk in front 
+of them. 
+END_ROOM_DESCR
+
+ROOM_DESCR 4
+In a moment of temporary insanity you dash 
+across the street. Traffic is careening 
+and swerving to avoid you. Two tow trucks collide. 
+Their impact unleashes a gigantic 
+tidal wave from nearby puddles. 
+The wave levels you in the face. 
+
+You're going down, and quick!
+
+Suddenly, you realize what (or who) is pulling you down. 
+It's your former employer Yehuda 
+grabbing you by the coattails! 
+It would seem his red truck was involved in the 
+accident - and he seems to be serving you with a 
+hefty law suit. 
+
+Reality is blurry. Objects and water 
+are flying passed your periphery. In your 
+current state of confusion you are willing to sign 
+whatever papers he is holding.
+
+You wake up several days later in what would seem to be jail.
+
+The lawyers come eventually, but only to tell
+you are never getting out of here. Like ever.
+
+GGGGGGGG  AAAA MMMM  MMMMEEEEEEE 
+GG     G AA  AA MMM  MMM  EE   E
+GG       AAAAAA MM MM MM  EEEE
+GG   GGGGAAAAAA MM MM MM  EE
+GG    GG AA  AA MM    MM  EE   E
+GGGGGGGG AA  AAMMMM  MMMMEEEEEEE
+
+                00000 VV     VVEEEEEEE RRRRRR
+               00   00VV     VV EE   E  RR  RR
+               00   00 VV   VV  EEEE    RRRRRR
+               00   00  VV VV   EE      RR  RR
+               00   00   VVV    EE   E  RR  RR
+                00000     V    EEEEEEE RRRR RRR
+END_ROOM_DESCR
+
+ROOM_DESCR 5
+What have you been smoking? 
+This is not the way inside your house. 
+Re-trace your steps and 
+start again, or try asking a passer-by for help. 
+END_ROOM_DESCR
+
+ROOM_DESCR 6
+Holy nelly-kins are you EVER lost. 
+Is this your neighbourhood? 
+Did you really break your key back there? 
+What if you only THINK you did? 
+Ya. Besides, you are a free spirit, 
+you don't even need a key. 
+They can't even KEEP you out.
+You are too crafty for that. 
+
+You are also tripping pretty hard on some LSD. 
+You wonder if they are locking you out on purpose. 
+But why? To keep you from finding out about 
+their secrets. Just as you begin working out the 
+specific parameters of the bump key size 
+(female thread = G1/8 + 28 x hose stem (52)5/velocity) 
+you smell something funny. Like burning stereo smoke. 
+Dude, are you on fir..PLAYER HAS SPONTANEOUSLY COMBUSTED.
+
+
+GGGGGGGG  AAAA MMMM  MMMMEEEEEEE 
+GG     G AA  AA MMM  MMM  EE   E
+GG       AAAAAA MM MM MM  EEEE
+GG   GGGGAAAAAA MM MM MM  EE
+GG    GG AA  AA MM    MM  EE   E
+GGGGGGGG AA  AAMMMM  MMMMEEEEEEE
+
+                00000 VV     VVEEEEEEE RRRRRR
+               00   00VV     VV EE   E  RR  RR
+               00   00 VV   VV  EEEE    RRRRRR
+               00   00  VV VV   EE      RR  RR
+               00   00   VVV    EE   E  RR  RR
+                00000     V    EEEEEEE RRRR RRR
+END_ROOM_DESCR
+
+ROOM_DESCR 7 (* Hallway *)
+You find yourself in the hallway. 
+Just ahead of you to the east is the couch
+in the common room where you can sit down and
+enjoy the rest of 4/20 in peace and relaxation. 
+The possibilities are endless
+what will you do with your evening? 
+
+Maybe you'll write a text based video game.
+END_ROOM_DESCR 7
+
+ROOM_DESCR 8 (* Game Win *)
+YYYY YYYY  00000 UUUU UUUU 
+ YY   YY  00   00 UU   UU
+ YYYYYYY  00   00 UU   UU
+   YYY    00   00 UU   UU
+   YYY    00   00 UU   UU
+   YYY     00000   UUUUU
+                  WWWW   WWWW IIII NNNN   NNNN !!! !!!
+                   WW     WW   II   NN NN  NN  !!! !!!
+                   WW     WW   II   NN NN  NN  !!! !!!
+                   WW WWW WW   II   NN  NN NN  !!! !!!
+                    WWW WWW    II   NN  NN NN        
+                     WW WW    IIII NNNN NNNNN  !!! !!!
+
+
+
+
+
+
+
+As you sit down on the couch, suddenly 
+Gabe comes home using the backdoor. 
+He is crazy drunk and full of stories.
+
+The two of you paint a panda! (400 Points!)
+
+                  H|| 
+        __________H||___________
+       [|.......................|
+       ||.........## --.#.......|                       
+       ||.........   #  # ......|            @@@@
+       ||.........     *  ......|          @@@@@@@       
+       ||........     -^........|   ,      - @@@@        
+       ||.....##\        .......|   |     '_ @@@        
+       ||....#####     /###.....|   |     __\@ \@       
+       ||....########\ \((#.....|  _\\  (/ ) @\_/)____  
+       ||..####,   ))/ ##.......|   |(__/ /     /|% #/ 
+       ||..#####      '####.....|    \___/ ----/_|-*/   
+       ||..#####\____/#####.....|       ,:   '(          
+       ||...######..######......|       |:     \        
+       ||.....""""  """"...b'ger|       |:      )      
+       [|_______________________|       |:      |       
+              H||_______H||             |_____,_|       
+              H||________\|              |   / (          
+              H||       H||              |  /\  )        
+              H||       H||              (  \| /         
+             _H||_______H||__            |  /'=.        
+           H|________________|           '=>/  \           
+                                        /  \ /|/
+                                      ,___/|    
+
+END_ROOM_DESCR 8
+
+NOUN_DESCR 210
+Despite the notice reading 
+"S.V.P. pas des circulaires", the mailbox is 
+jammed full of junkmail from Videotron, L'inter Marche, 
+and schedules for the public pool times at Centre du 
+Mile-end. A tiny note is spilling out of the top, 
+just begging you to read it.
+END_NOUN_DESCR
+
+NOUN_DESCR 211
+On closer inspection, the word "D r 3 W" is written on that
+note in inky dripping letters. Read the note before rain makes 
+it unreadable!
+END_NOUN_DESCR
+
+NOUN_DESCR 212
+Do the residents of 5223 Ave. Bernard believe it's 
+garbage day? Or, were they tricked by someone else 
+also putting out garbage on the wrong day, causing a 
+massively erroneous cultural trend to dishevel 
+the Mile-End garbage management dept.?
+END_NOUN_DESCR
+
+NOUN_DESC 213
+Your key is broken inside the front door lock. 
+Force your way inside?
+END_NOUN_DESCR
+
+NOUN_DESCR 214
+Through the window a faint light can be seen burning low 
+from the kitchen within. 
+Tap the window pane. 
+Maybe someone is home after all?
+END_NOUN_DESCR
+
+NOUN_DESCR 215
+END_DESCR
+
+NOUN_DESCR 216
+END_DESCR
+
+NOUN_DESCR 217
+END_DESCR
+
+NOUN_DESCR 218
+END_DESCR
+
+NOUN 210
+MAILBOX
+Small
+There is a mailbox here.
+LOCATION 2
+CLOSABLE
+CLOSED
+READABLE
+UNMOVABLE
+END_NOUN
+
+NOUN 211
+Note
+Inky
+There is an inky note here.
+WEIGHT 1
+Size 2
+LOCATION 210
+MOVABLE
+READABLE
+END_NOUN
+
+NOUN 212
+Garbage
+Sack
+Someone has put out their garbage on the wrong day.
+WEIGHT 10
+SIZE 20
+LOCATION 5
+ON
+END_NOUN
+
+NOUN 213
+Front
+Front Door
+Your key is broken inside the front-door's lock. 
+Try forcing your way inside, maybe you'll get lucky?
+WEIGHT 100
+SIZE 50
+LOCATION 2
+CLOSABLE
+CLOSED
+LOCKABLE
+LOCKED
+PUSHABLE
+PULLABLE
+END_NOUN
+
+PUSH_DESCR 213
+You SMACK against the front-door by running into it at full-tilt. 
+It does not open. You are not lucky.
+
+Have you considered knocking?
+END_PUSH_DESCR
+
+PULL_DESCR 213
+Knock knock!
+
+Who's there?
+
+Madame.
+
+Madame who?
+
+Madame key's stuck in the door and nobody is home!
+END_TURN_DESCR
+
+Noun 214
+Window
+Small
+In the door is a small window.
+LOCATION 2
+TURNABLE
+POINTS 20
+END_NOUN
+
+TURN_DESCR 214
+END_TURN_DESCR
+
+Noun 215
+Commands
+List
+Type "list commands" to review the controls.
+Location 2
+READABLE
+END_NOUN
+
+Noun 216
+Commands
+List
+Type "list commands" to review the controls.
+Location 3
+READABLE
+END_NOUN
+
+Noun 217
+Commands
+List
+Type "list Commands" to review the controls.
+Location 5
+READABLE
+END_NOUN
+
+Noun 218
+Commands
+List
+Type "list Commands" to review the controls.
+Location 7
+READABLE
+END_NOUN
+
+
+SPECIAL 7 (* Tap window *)
+Once upon a midnight dreary, 
+while I pondered weak and weary,
+Over many a quaint and curious volume 
+of forgotten lore,
+While I nodded, nearly napping, 
+suddenly there came a tapping,
+As of some one gently rapping, 
+rapping at my chamber door.
+`'Tis some visitor,' I muttered, 
+`tapping at my chamber door -
+Only this, and nothing more.'
+
+As you stand there dripping wet, 
+musing over Edgar Allan Poe-try (Yes, I said it)
+you hear a siren in the distance. 
+The sound keeps getting louder and louder. 
+
+Finally an ambulance arrives at your doorstep. 
+Paramedics come running out and 
+kick open your door. 
+Lying there on the floor is your roomate Greg. 
+He is intermittenly spastically 
+convulsing, and gasping for air 
+his hands at his throat. He has eaten too many 
+space cakes and called 911 again!
+END_SPECIAL
+
+
+TEXT 210
+On closer inspection, 
+the word "D r 3 W" is written at the top of the note in 
+inky dripping letters. 
+Read the note before rain makes its message unreadable!
+END_TEXT
+
+TEXT 211
+HI Drew, 
+
+Sorry to do this to you right now, 
+
+but I have decided to move back to Sweden.
+
+I am dropping this off at 7 am 
+
+on my way to P.E. Trudeau airport,
+
+by the time you read this, I will probably be long gone. 
+
+I never could stand the fact you never 
+
+wake up before 3 pm. 
+
+
+Mvh,
+
+Cecilia
+
+
+P.S. Last night I married your best friend 
+
+Andrew, while you were sleeping. 
+
+He asked me to tell you he wants his 
+
+Northern Lights weed back. Not because he needs
+
+it, just because we want you to suffer further pain.
+END_TEXT
+
+TEXT 215
+************************
+*   Commands List      *
+************************
+*                      *
+*// Movement //        *
+*   North              *
+*   East               *
+*   South              *
+*   West               *
+*   Up                 *
+*   Down               *
+*                      *
+*// Actions //         *
+*   Take               *
+*   Examine            *
+*   Read               *
+*   Open               *
+*   Force              *
+*   Push               *
+*   Knock              *
+*   Tap                *
+*   Attack             *
+*   Ask                *
+*                      *
+************************
+END_TEXT
+
+TEXT 216
+************************
+*   Commands List      *
+************************
+*                      *
+*// Movement //        *
+*   North              *
+*   East               *
+*   South              *
+*   West               *
+*   Up                 *
+*   Down               *
+*                      *
+*// Actions //         *
+*   Take               *
+*   Examine            *
+*   Read               *
+*   Open               *
+*   Force              *
+*   Push               *
+*   Knock              *
+*   Tap                *
+*   Attack             *
+*   Ask                *
+*                      *
+************************
+END_TEXT
+
+TEXT 217
+************************
+*   Commands List      *
+************************
+*                      *
+*// Movement //        *
+*   North              *
+*   East               *
+*   South              *
+*   West               *
+*   Up                 *
+*   Down               *
+*                      *
+*// Actions //         *
+*   Take               *
+*   Examine            *
+*   Read               *
+*   Open               *
+*   Force              *
+*   Push               *
+*   Knock              *
+*   Tap                *
+*   Attack             *
+*   Ask                *
+*                      *
+************************
+END_TEXT
+
+TEXT 218
+************************
+*   Commands List      *
+************************
+*                      *
+*// Movement //        *
+*   North              *
+*   East               *
+*   South              *
+*   West               *
+*   Up                 *
+*   Down               *
+*                      *
+*// Actions //         *
+*   Take               *
+*   Examine            *
+*   Read               *
+*   Open               *
+*   Force              *
+*   Push               *
+*   Knock              *
+*   Tap                *
+*   Attack             *
+*   Ask                *
+*                      *
+************************
+END_TEXT
+
+CREATURE 300
+Biker
+Biker
+There is a biker passing by here.
+HOSTILE
+LOCATION 5
+WEAPON 212
+THRESHOLD 25
+TIME_THRESH 5
+END_CREATURE
+
+VERB
+ PUSH FORCE
+ PULL KNOCK
+ TURN TAP 
+ ATTACK ASK
+ READ LIST
+END_VERB 
+
+
+rem (************************************)
+rem (*                                  *)
+rem (*           Intro Text             *)
+rem (*                                  *)
+rem (************************************)
+
+INTRO
+The date is 2033-04-20 and in celebration of 
+Adolf Hitler's Birthday (he Would have been 144) 
+you have returned home to 5863 Rue Saint-Urbain 
+after an evening of washing dishes for some crappy 
+restaurant. 
+
+The night is dark and rainy. 
+As you fumble with your keys at the front door 
+you can hear Greg's jazz music pounding from within. 
+Through the window a faint light can be seen burning low 
+from the kitchen within. 
+
+For whatever reason your key is not working.
+You jiggle it left, you jiggle it right, 
+you jiggle in the middle with all of 
+your might! 
+
+Suddenly the key breaks in two pieces,
+one of which is stuck inside of the lock. 
+You are locked out.
+
+************************
+*   Commands List      *
+************************
+*                      *
+*// Movement //        *
+*   North              *
+*   East               *
+*   South              *
+*   West               *
+*   Up                 *
+*   Down               *
+*                      *
+*// Actions //         *
+*   Take               *
+*   Examine            *
+*   Read               *
+*   Open               *
+*   Force              *
+*   Push               *
+*   Knock              *
+*   Tap                *
+*   Attack             *
+*   Ask                *
+*                      *
+************************
+END_INTRO
+
+
+
+
+
+
+0000000000

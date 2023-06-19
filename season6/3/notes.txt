@@ -1,0 +1,15 @@
+Binary of trace1 gives ANTFUGUE
+Morse of trace2 gives HOLISMIONISM
+
+Decrypt trace1.txt.enc to get bit.ly link to zip, decrypt zip with second password
+
+Get 24.jpg
+AN END LIKE THE SUBTERRANEAN PATHOGEN WE CREATE HEALING WITHIN THE DARKNESS WE FIND THE DIUINITY WITHIN AND SUBMERGE...
+
+
+Use trace3_brute.py pattern to get 
+RICERCAR
+24:2 24:4 24:6 24:10
+
+
+Book cipher: ENDTHEPATHOGENWITHIN
