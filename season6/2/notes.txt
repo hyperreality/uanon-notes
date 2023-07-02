@@ -1,0 +1,18 @@
+HollowEarthConsole.vue has game engine
+dollhouse dir has game data
+
+replay.ahk takes up to certain level
+
+brute.py contains brutes for all chests
+
+Unlock first chest with SÉSAMEOUVRETOI
+
+Get 5-6-7.jpg, split up into separate parts and XOR images together
+
+Unlock third chest with PINIONSVERIFYINPGP
+
+Double AES decrypt second chest with empty password, unlock second chest with ENCODEDINAQUANTUMSTATE
+
+When mapping out game map it spells UNPOPULAR
+
+Final answer: UNP0PU14R
